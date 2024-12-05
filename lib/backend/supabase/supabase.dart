@@ -4,9 +4,9 @@ import '/flutter_flow/flutter_flow_util.dart';
 export 'database/database.dart';
 export 'storage/storage.dart';
 
-String _kSupabaseUrl = 'https://sgtgeiavmkvrdqqdwtsp.supabase.co';
+String _kSupabaseUrl = 'url do banco aqui';
 String _kSupabaseAnonKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNndGdlaWF2bWt2cmRxcWR3dHNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU1NDAxODMsImV4cCI6MjA0MTExNjE4M30.tfmsCa52F5DFHlvzzAzY-0KRfWCrQ8qkRGsA46vdgKk';
+    'cahve api aqui';
 
 class SupaFlow {
   SupaFlow._();
