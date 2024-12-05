@@ -17,7 +17,7 @@ class BuscarUsuariosCall {
     return ApiManager.instance.makeApiCall(
       callName: 'buscarUsuarios',
       apiUrl:
-          'https://sgtgeiavmkvrdqqdwtsp.supabase.co/rest/v1/usuario?email=ilike.*${searchString}*&id=not.eq.${userId}&select=*',
+          'https://api supabase aqui.supabase.co/rest/v1/usuario?email=ilike.*${searchString}*&id=not.eq.${userId}&select=*',
       callType: ApiCallType.GET,
       headers: {
         'apikey':
@@ -44,7 +44,7 @@ class AddMembrosCall {
     return ApiManager.instance.makeApiCall(
       callName: 'AddMembros',
       apiUrl:
-          'https://sgtgeiavmkvrdqqdwtsp.supabase.co/rest/v1/usuario?email=ilike.*${searchString}*&id=not.in.(${currentMembersUid})&select=*',
+          'https://api toke aqui.supabase.co/rest/v1/usuario?email=ilike.*${searchString}*&id=not.in.(${currentMembersUid})&select=*',
       callType: ApiCallType.GET,
       headers: {
         'apikey':
