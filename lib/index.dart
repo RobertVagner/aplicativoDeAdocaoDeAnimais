@@ -1,0 +1,44 @@
+// Export pages
+export '/pages/mensagens/pagina_de_conversa/pagina_de_conversa_widget.dart'
+    show PaginaDeConversaWidget;
+export '/pages/perfil/feed_adotante/feed_adotante_widget.dart'
+    show FeedAdotanteWidget;
+export '/pages/configuracoes_user/configuracao_user/configuracao_user_widget.dart'
+    show ConfiguracaoUserWidget;
+export '/pages/mensagens/lista_de_mensagens/lista_de_mensagens_widget.dart'
+    show ListaDeMensagensWidget;
+export '/pages/login_cadastro/login_cadastro/login_cadastro_widget.dart'
+    show LoginCadastroWidget;
+export '/pages/meus_animal/animal_cadastro/animal_cadastro_widget.dart'
+    show AnimalCadastroWidget;
+export '/pages/login_cadastro/cadastro_user/cadastro_user_widget.dart'
+    show CadastroUserWidget;
+export '/pages/meus_animal/meus_animais/meus_animais_widget.dart'
+    show MeusAnimaisWidget;
+export '/pages/configuracoes_user/editar_user/editar_user_widget.dart'
+    show EditarUserWidget;
+export '/pages/veterinario/veterinarios/veterinarios_widget.dart'
+    show VeterinariosWidget;
+export '/pages/meus_animal/animal_carteira/animal_carteira_widget.dart'
+    show AnimalCarteiraWidget;
+export '/pages/mensagens/contato_detalhes_page/contato_detalhes_page_widget.dart'
+    show ContatoDetalhesPageWidget;
+export '/pages/mensagens/grupo_detalhes_page/grupo_detalhes_page_widget.dart'
+    show GrupoDetalhesPageWidget;
+export '/pages/vacinas/vacina_cadastro/vacina_cadastro_widget.dart'
+    show VacinaCadastroWidget;
+export '/pages/vacinas/vacina_editar/vacina_editar_widget.dart'
+    show VacinaEditarWidget;
+export '/pages/home/cadastro_post/cadastro_post_widget.dart'
+    show CadastroPostWidget;
+export '/pages/meus_animal/qr_code_animal/qr_code_animal_widget.dart'
+    show QrCodeAnimalWidget;
+export '/pages/animais_perdidos/cadastro_animais_post/cadastro_animais_post_widget.dart'
+    show CadastroAnimaisPostWidget;
+export '/pages/perfil/cadastro_doacao/cadastro_doacao_widget.dart'
+    show CadastroDoacaoWidget;
+export '/pages/animais_perdidos/animais_perdidos2/animais_perdidos2_widget.dart'
+    show AnimaisPerdidos2Widget;
+export '/pages/home/home_page/home_page_widget.dart' show HomePageWidget;
+export '/pages/meus_animal/editar_animal/editar_animal_widget.dart'
+    show EditarAnimalWidget;
