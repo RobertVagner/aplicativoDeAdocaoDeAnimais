@@ -21,9 +21,9 @@ class BuscarUsuariosCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNndGdlaWF2bWt2cmRxcWR3dHNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU1NDAxODMsImV4cCI6MjA0MTExNjE4M30.tfmsCa52F5DFHlvzzAzY-0KRfWCrQ8qkRGsA46vdgKk',
+            'Colocar tokken aqui',
         'Authorization':
-            'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNndGdlaWF2bWt2cmRxcWR3dHNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU1NDAxODMsImV4cCI6MjA0MTExNjE4M30.tfmsCa52F5DFHlvzzAzY-0KRfWCrQ8qkRGsA46vdgKk',
+            'Bearer código bearer',
       },
       params: {},
       returnBody: true,
@@ -48,9 +48,9 @@ class AddMembrosCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNndGdlaWF2bWt2cmRxcWR3dHNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU1NDAxODMsImV4cCI6MjA0MTExNjE4M30.tfmsCa52F5DFHlvzzAzY-0KRfWCrQ8qkRGsA46vdgKk',
+            'token aqui',
         'Authorization':
-            'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNndGdlaWF2bWt2cmRxcWR3dHNwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU1NDAxODMsImV4cCI6MjA0MTExNjE4M30.tfmsCa52F5DFHlvzzAzY-0KRfWCrQ8qkRGsA46vdgKk',
+            'Bearer cógigo bearer',
       },
       params: {},
       returnBody: true,
